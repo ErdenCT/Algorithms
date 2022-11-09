@@ -1,6 +1,8 @@
-# Algorithms
+# Ineuron
 
 Assignment 2
+
+# Algorithms
 
 This is a project which I did for our 2nd assignment of Ineuron Full-Stack Java Developer program. In this assignment a seperate program was written to fulfill each requirement:<br/>
 <br/>
